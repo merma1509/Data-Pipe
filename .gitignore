@@ -1,8 +1,3 @@
 .dist
 .history
 .vscode
-api-endpoints/
-climate-api/
-climate-mobile-app/
-ingestion-layer/
-pipleline/
