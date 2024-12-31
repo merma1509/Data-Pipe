@@ -1,8 +1,8 @@
 .dist
 .history
 .vscode
-data-ingestion-layer/
-data-pipleline/
-dews-api-endpoints/
-open-climate-api/
-open-climate-mobile-app/
+api-endpoints/
+climate-api/
+climate-mobile-app/
+ingestion-layer/
+pipleline/
