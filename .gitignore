@@ -11,3 +11,5 @@ venv/
 .vscode/
 .mypy_cache/
 .DS_store
+data_files/
+logs/
