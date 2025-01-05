@@ -1,6 +1,5 @@
 import random
 from datetime import datetime
-import logging
 
 class SensorDataCollector:
     """A class to simulate sensor data collection from various environmental sensors."""
@@ -12,7 +11,7 @@ class SensorDataCollector:
             sensor_id (str): Unique identifier for the sensor.
             district (str): The district where the sensor is deployed.
             location (str): The specific location within the district where the sensor is deployed.
-            datetime_format (str): The format in which the date and time should be stored. Defaults to '%Y-%m-%d %H:%M:%S'.
+            datetime_format (str, optional): The format in which the date and time should be stored. Defaults to '%Y-%m-%d %H:%M:%S'.
         """
         self.sensor_id = sensor_id
         self.district = district

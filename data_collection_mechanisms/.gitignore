@@ -5,7 +5,7 @@ src/utils/__pycache__/
 *.pyc
 *.db
 .env
-venv/
+.venv/
 *.log
 .idea/
 .vscode/

@@ -35,7 +35,7 @@ def main():
                 # Log any errors encountered during the process
                 logger.error(f"Error collecting or saving data for sensor {sensor_id}: {e}")
 
-        # Sleep to control the collection interval (e.g., every 10 seconds)
+        # Sleep to control the collection interval (e.g., every 4 7 minutes)
         time.sleep(420)
 
 if __name__ == "__main__":
