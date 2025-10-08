@@ -38,7 +38,7 @@ data_collection_mechanims/
 ## Installation
 1. Clone the repository and navigate to the `Data_collection_mechanims` directory:
    ```bash
-   git clone https://github.com/github-username/OpenClimate/data_collection_mechanisms.git
+   git clone https://github.com/github-username/data_collection_mechanisms.git
    cd data_collection_mechanims
    ```
 
@@ -89,5 +89,5 @@ Modify the `config.py` file to customize the following:
 5. Open a pull request.
 
 ## Contact
-For any questions or contributions, please contact the project team at [info@topenclimate.org](mailto:info@theopenclimate.org).
+For any questions or contributions, please contact the project team at [niyonmartin@yandex.ru](mailto:niyonmartin@yandex.ru).
 
